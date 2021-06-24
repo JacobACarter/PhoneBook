@@ -1,5 +1,2 @@
-Perkins
-Commercial
-Bluebonnet
-Prairieville
-Home
+Put the names of the locations you want to pull from here.
+Put one location per line.
